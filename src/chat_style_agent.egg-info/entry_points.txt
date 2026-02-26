@@ -1,0 +1,2 @@
+[console_scripts]
+chat-style-agent = chat_style_agent.cli:main

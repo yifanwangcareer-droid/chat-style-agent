@@ -1,22 +1,22 @@
 .PHONY: venv install dev test lint run eval
 
 venv:
-\tpython3 -m venv .venv
+	python3 -m venv .venv
 
 install:
-\tpip install -e .
+	pip install -e .
 
 dev:
-\tpip install -e ".[dev]"
+	pip install -e ".[dev]"
 
 test:
-\tpytest -q
+	pytest -q
 
 lint:
-\truff check src tests
+	ruff check src tests
 
 run:
-\tchat-style-agent rewrite --text "I am running late by 10 minutes." --country UK --age 25-34 --scene work
+	chat-style-agent rewrite --text "I am running late by 10 minutes." --country UK --age 25-34 --scene work
 
 eval:
-\tchat-style-agent eval --cases configs/eval_cases.json --out outputs/
+	chat-style-agent eval --cases configs/eval_cases.json --out outputs/

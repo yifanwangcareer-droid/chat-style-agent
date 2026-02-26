@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/chat_style_agent/__init__.py
+src/chat_style_agent/agent.py
+src/chat_style_agent/cli.py
+src/chat_style_agent/io.py
+src/chat_style_agent/prompts.py
+src/chat_style_agent/tools.py
+src/chat_style_agent/types.py
+src/chat_style_agent.egg-info/PKG-INFO
+src/chat_style_agent.egg-info/SOURCES.txt
+src/chat_style_agent.egg-info/dependency_links.txt
+src/chat_style_agent.egg-info/entry_points.txt
+src/chat_style_agent.egg-info/requires.txt
+src/chat_style_agent.egg-info/top_level.txt
+tests/test_smoke.py
