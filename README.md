@@ -1,38 +1,31 @@
-# Chat Style Agent — Cross-Cultural Tone Adapter
+# Cross-Cultural Chat Style Adaptation Agent
 
-A lightweight **tool-use LLM agent** that rewrites a message into **age- and locale-specific internet-native chat style** using:
-- **Context retrieval** from local style rules (Markdown)
-- **Prompt-based rewriting** (3 variants: natural / polite / short)
-- **Evaluation loop** scoring naturalness, politeness, brevity + risk flagging
-- **Bad-case logging** for iterative prompt/rule refinement
+A production-style LLM agent for locale-conditioned rewriting with strictly structured JSON outputs.
+
+## Overview
+
+This project implements a controllable LLM-based rewriting agent supporting:
+- Locale-specific tone adaptation
+- Age-group conditioning
+- Structured JSON outputs
+- Schema validation + retry guardrails
+
+## Architecture
+
+User Input  
+→ Context Engineering (style rule retrieval)  
+→ Prompt Construction  
+→ LLM Generation  
+→ Schema Validation  
+→ Retry Guardrail  
+→ Structured Output
+
+## Evaluation
+
+- On processing, collecting more real word data...
 
 ## Quickstart
 
-### 1) Setup
-\`\`\`bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -U pip
-pip install -e ".[dev]"
-cp .env.example .env
-\`\`\`
-
-### 2) Run a single rewrite
-\`\`\`bash
-chat-style-agent rewrite --text "我今天太累了，不想出门了。" --country US --age 18-24 --scene friends
-\`\`\`
-
-### 3) Run evaluation batch
-\`\`\`bash
-chat-style-agent eval --cases configs/eval_cases.json --out outputs/
-\`\`\`
-
-## Project Structure
-- \`src/chat_style_agent/\`: agent core + CLI
-- \`styles/\`: style rules knowledge base
-- \`configs/\`: evaluation cases
-- \`outputs/\`: generated results (ignored by git)
-- \`tests/\`: minimal tests
-
-## Notes on Responsible Styling
-This project adapts **tone/register** (brevity, politeness, slang level) and avoids identity stereotypes.
+```bash
+pip install -e .
+bash scripts/run_eval.sh
