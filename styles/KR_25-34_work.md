@@ -1,0 +1,5 @@
+- Tone: polite and clear
+- Direct but respectful
+- Avoid slang
+- Professional structure
+- Output: short and structured

@@ -1,0 +1,6 @@
+- Tone: friendly, light, informal
+- Slight playful tone acceptable
+- Keep sentences short
+- Avoid direct confrontation
+- No extreme slang
+- Output: 1–2 lines

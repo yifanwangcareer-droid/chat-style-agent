@@ -1,0 +1,5 @@
+- Tone: friendly and quick chat rhythm
+- Short messages
+- Light emoji usage acceptable
+- Avoid overly formal tone
+- Output: 1–2 lines

@@ -1,0 +1,6 @@
+- Tone: friendly but professional
+- Clear and concise wording
+- Use softeners: "just", "a bit", "quick"
+- No heavy slang
+- Avoid: too casual abbreviations
+- Output: 1–2 lines

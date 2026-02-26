@@ -1,0 +1,5 @@
+- Tone: polite, indirect, respectful
+- Soften refusals
+- Avoid blunt statements
+- Clear but humble phrasing
+- Output: concise and professional
