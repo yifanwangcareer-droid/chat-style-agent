@@ -1,0 +1,22 @@
+[project]
+name = "chat-style-agent"
+version = "0.1.0"
+description = "Cross-cultural chat style adaptation agent with retrieval-based context engineering and evaluation."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "openai>=1.0.0",
+  "python-dotenv>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0.0",
+  "ruff>=0.5.0"
+]
+
+[project.scripts]
+chat-style-agent = "chat_style_agent.cli:main"
+
+[tool.ruff]
+line-length = 100

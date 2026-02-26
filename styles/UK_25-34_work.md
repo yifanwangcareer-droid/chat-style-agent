@@ -1,0 +1,5 @@
+- Tone: polite, understated, concise
+- Common: Thanks, Cheers, No worries (contextual)
+- Style: softeners like "a bit / quite / could we"
+- Avoid: overly enthusiastic hype
+- Output: 1–2 lines, professional casual

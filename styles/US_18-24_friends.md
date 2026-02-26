@@ -1,0 +1,6 @@
+- Tone: casual, playful, short sentences
+- Common fillers: tbh, ngl, kinda, lowkey, lol
+- Emojis: 😂😭💀 (light use)
+- Style: contractions, sometimes drop subject
+- Avoid: over-formal wording
+- Output: 1–2 lines max
