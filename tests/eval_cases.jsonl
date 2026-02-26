@@ -1,0 +1,30 @@
+{"id":1,"text":"Can you rewrite this so it sounds more casual and internet-native? I missed the deadline but I’m still interested.","country":"US","age":"18-24","scene":"social"}
+{"id":2,"text":"Please rewrite this to be polite and professional: I won’t be able to attend the meeting due to a conflict.","country":"US","age":"25-34","scene":"work"}
+{"id":3,"text":"Rewrite this to be concise for a Slack message: The deployment failed and we need to roll back ASAP.","country":"US","age":"25-34","scene":"work"}
+{"id":4,"text":"Make this sound friendly for a group chat: I’m running 10 minutes late, start without me.","country":"UK","age":"18-24","scene":"social"}
+{"id":5,"text":"Rewrite this for a formal email tone: Thank you for your feedback. I will incorporate the changes today.","country":"UK","age":"25-34","scene":"work"}
+{"id":6,"text":"Rewrite this as a short, polite message to a landlord: The heater isn’t working since yesterday.","country":"UK","age":"35-44","scene":"services"}
+{"id":7,"text":"Rewrite to be warm but not too formal: Sorry for the late reply—I’ve been swamped this week.","country":"CA","age":"25-34","scene":"social"}
+{"id":8,"text":"Rewrite for a customer support chat: My order arrived damaged. I’d like a replacement.","country":"CA","age":"25-34","scene":"services"}
+{"id":9,"text":"Rewrite as a polite LinkedIn message: I enjoyed your talk and would love to connect.","country":"CA","age":"18-24","scene":"work"}
+{"id":10,"text":"Rewrite for a casual DM: Wanna grab coffee sometime this week?","country":"AU","age":"18-24","scene":"social"}
+{"id":11,"text":"Rewrite to be professional: I’m following up on the invoice sent last week.","country":"AU","age":"25-34","scene":"work"}
+{"id":12,"text":"Rewrite for a complaint but stay respectful: The service was slow and my booking was ignored.","country":"AU","age":"35-44","scene":"services"}
+{"id":13,"text":"Rewrite to be polite and clear for a work chat: Could you share the latest version of the deck?","country":"SG","age":"25-34","scene":"work"}
+{"id":14,"text":"Rewrite to be friendly for classmates: Anyone wants to form a study group for the exam?","country":"SG","age":"18-24","scene":"school"}
+{"id":15,"text":"Rewrite as concise app review: The app crashes every time I open settings.","country":"SG","age":"25-34","scene":"services"}
+{"id":16,"text":"Rewrite for a casual WeChat-style message: 我刚到啦，你在哪儿？","country":"CN","age":"18-24","scene":"social"}
+{"id":17,"text":"Rewrite for a polite work message in Chinese: 麻烦您确认一下明天的会议时间是否还是3点？","country":"CN","age":"25-34","scene":"work"}
+{"id":18,"text":"Rewrite for customer service tone in Chinese: 你好，我的包裹显示已签收但我没收到。","country":"CN","age":"25-34","scene":"services"}
+{"id":19,"text":"Rewrite for a casual message in Japanese: ごめん、ちょっと遅れる！先に始めてて。","country":"JP","age":"18-24","scene":"social"}
+{"id":20,"text":"Rewrite for a polite business email in Japanese: お忙しいところ恐れ入りますが、ご確認をお願いいたします。","country":"JP","age":"25-34","scene":"work"}
+{"id":21,"text":"Rewrite for customer support in Japanese: 注文した商品が不良品でした。交換できますか。","country":"JP","age":"25-34","scene":"services"}
+{"id":22,"text":"Rewrite for a casual message in Korean: 나 지금 출발했어. 10분 뒤에 도착할 듯!","country":"KR","age":"18-24","scene":"social"}
+{"id":23,"text":"Rewrite for a professional tone in Korean: 회의록을 정리해서 공유드리겠습니다.","country":"KR","age":"25-34","scene":"work"}
+{"id":24,"text":"Rewrite for customer complaint in Korean but stay polite: 배송이 예정일보다 이틀 늦었습니다.","country":"KR","age":"25-34","scene":"services"}
+{"id":25,"text":"Rewrite for a casual message in French: Je suis en retard de 5 minutes, j’arrive.","country":"FR","age":"18-24","scene":"social"}
+{"id":26,"text":"Rewrite for a formal French email: Je vous remercie pour votre retour et reste à disposition.","country":"FR","age":"25-34","scene":"work"}
+{"id":27,"text":"Rewrite for customer support in French: Mon abonnement a été débité deux fois ce mois-ci.","country":"FR","age":"25-34","scene":"services"}
+{"id":28,"text":"Rewrite for a casual message in German: Bin gleich da, dauert nur noch 10 Minuten.","country":"DE","age":"18-24","scene":"social"}
+{"id":29,"text":"Rewrite for a professional German email: Könnten Sie bitte die aktualisierte Datei senden?","country":"DE","age":"25-34","scene":"work"}
+{"id":30,"text":"Rewrite for German customer support: Das Produkt entspricht nicht der Beschreibung. Ich möchte es zurückgeben.","country":"DE","age":"25-34","scene":"services"}
